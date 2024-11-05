@@ -1,4 +1,14 @@
-.bananas, mac-n-cheese {
+.bananas, .mac-n-cheese {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.bananas {
+    background-color: #0B162A;
+    color: #C83803;
+}
+
+.mac-n-cheese {
+    background-color: rgb(200, 56, 3);
+    color: rgb(11, 22, 42);
 }
